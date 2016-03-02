@@ -98,7 +98,7 @@ msgstr ""
 #: code:addons/website_twitter/models/twitter_config.py:49
 #, python-format
 msgid "HTTP Error: Something is misconfigured"
-msgstr ""
+msgstr "HTTP Error: Qualcosa non è configurato correttamente"
 
 #. module: website_twitter
 #: model:ir.ui.view,arch_db:website_twitter.view_website_config_settings
@@ -114,7 +114,7 @@ msgstr "ID"
 #: code:addons/website_twitter/models/twitter_config.py:62
 #, python-format
 msgid "Internet connection refused"
-msgstr ""
+msgstr "Connessione internet rifiutata"
 
 #. module: website_twitter
 #: model:ir.model.fields,field_description:website_twitter.field_website_twitter_tweet___last_update
@@ -201,7 +201,7 @@ msgstr ""
 #, python-format
 msgid ""
 "The Twitter servers are up, but overloaded with requests. Try again later."
-msgstr ""
+msgstr "I server di Twitter sono attualmente occupati. Riprovare più tardi."
 
 #. module: website_twitter
 #: code:addons/website_twitter/models/twitter_config.py:44
@@ -231,7 +231,7 @@ msgstr ""
 #: code:addons/website_twitter/models/twitter_config.py:36
 #, python-format
 msgid "There was no new data to return."
-msgstr ""
+msgstr "Non c'erano dati da restituire."
 
 #. module: website_twitter
 #: model:ir.model.fields,field_description:website_twitter.field_website_twitter_tweet_tweet_id
@@ -303,7 +303,7 @@ msgstr "Errore di autenticazione a Twitter!"
 #: code:addons/website_twitter/models/twitter_config.py:42
 #, python-format
 msgid "Twitter is down or being upgraded."
-msgstr ""
+msgstr "Twitter è fuori uso o in fase di aggiornamento."
 
 #. module: website_twitter
 #: code:addons/website_twitter/models/twitter_config.py:41
